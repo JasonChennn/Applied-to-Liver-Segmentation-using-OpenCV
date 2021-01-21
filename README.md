@@ -20,4 +20,4 @@
 *    To read DICOM medical images into this system, we have set a preset threshold in gray image. The physician can first see which slice image is the correct preset circle, and then let the system follow the dynamic programming of DICOM images one by one Circle the liver area and calculate the area of the liver in this image at the same time. After each image is calculated, the circled area will be displayed, and the doctor can also confirm whether the circled area is correct. After discussing and confirming with the doctor, the circle selection speed of this system is about five times faster than manual selection . Therefore, if the accuracy is stable, it can be of great help in the evaluation of the volume of liver surgery and can also reduce the evaluation of surgery. Time to improve medical quality.
 
 #
-![image](https://i.imgur.com/CNvhauu.png) ![image](https://i.imgur.com/J5emMya.png)
+![image](https://i.imgur.com/Kjxc7AQ.png) ![image](https://i.imgur.com/3itmM32.png)
