@@ -1,6 +1,13 @@
 # Introduction
  
-    In modern society, the development of science and technology has gradually progressed faster and faster over time, and new technologies are changing with each passing day; How to solve many problems in life,the scope of science and technology can help is quite wide, it is an inalienable part of the inviolable territory. In order to improve people's quality of life, human beings are constantly innovating in computer vision, which has resulted in the rapid development of algorithm program. In the medical industry, Image Processing have also greatly improved medical technology. Diagnosing patients medically is not only more convenient, but the most important thing, is to improve the quality of medical care, and thus benefit society.
+    In modern society, the development of science and technology has gradually progressed faster and faster over time, 
+and new technologies are changing with each passing day; How to solve many problems in life,
+the scope of science and technology can help is quite wide, it is an inalienable part of the inviolable territory. 
+In order to improve people's quality of life, human beings are constantly innovating in computer vision, 
+which has resulted in the rapid development of algorithm program. 
+In the medical industry, Image Processing have also greatly improved medical technology. 
+Diagnosing patients medically is not only more convenient, but the most important thing, 
+is to improve the quality of medical care, and thus benefit society.
 
     The development of medical technology nowadays is very different from that in the past. Early doctors made judgments based on the skills and experience. They learned in the past. However, with the advancement of science and technology, doctors in addition to their own skills , It can also use technology to assist its diagnosis, and it can also reduce the occurrence of misjudgments.
    
