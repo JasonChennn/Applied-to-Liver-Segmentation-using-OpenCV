@@ -29,5 +29,5 @@
 *     Contact us for email address: M10915047@mail.ntust.edu.tw
 
 # References
-* MRI Image Data Source : 
+* MRI image data source from: 
 *     Far Eastern Hospita, New Taipei City, Taiwan.
