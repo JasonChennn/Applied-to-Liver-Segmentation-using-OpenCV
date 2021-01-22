@@ -31,4 +31,4 @@
 
 # References
 * MRI image data source from: 
-*     Far Eastern Memorial Hospita, New Taipei City, Taiwan.
+*     Far Eastern Memorial Hospital, New Taipei City, Taiwan.
